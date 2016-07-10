@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">Musical Structure</string>
+
+    <!-- Main Menu -->
+    <string name="now_playing">Now Playing</string>
+    <string name="library">Library</string>
+    <string name="settings">Settings</string>
+
+    <!-- Library -->
+    <string name="playlists">Playlists</string>
+    <string name="songs">Songs</string>
+
+
+    <!-- Settings -->
+    <string name="preferences">Preferences</string>
+    <string name="about">About</string>
+
+    <!-- Descriptions -->
+    <string name="now_playing_desc">Displays current song that is playing now along with player controls including the ability to Play/Pause/Previous/Next buttons."</string>
+    <string name="playlist_desc">Displays users playlists</string>
+    <string name="song_list_desc">Displays list of songs </string>
+    <string name="preferences_desc">Displays a users personal preferences</string>
+    <string name="about_desc">Created by Daniel Rosen</string>
+
+</resources>
